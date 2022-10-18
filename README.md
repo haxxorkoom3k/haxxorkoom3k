@@ -1,0 +1,3 @@
+-  Konnichiwa! I'm @haxxorkoom3k
+-  I’m interested in coding, playing and read some manga
+-  I’m currently learning C#, PHP, JS and hypertext markup language with CSS.
