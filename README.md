@@ -1,3 +1,3 @@
--  Konnichiwa! I'm @haxxorkoom3k
+-  Konnichiwa! I'm @kuomekuSenpai
 -  I’m interested in coding, playing and read some manga
 -  I’m currently learning ReactJS and Django :)
